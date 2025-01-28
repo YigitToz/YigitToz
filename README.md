@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @YigitToz
 - 👀 I’m interested in coding and coding and coding....
-- 🌱 I’m currently trying to be a Full-Stack Engineer
+- 🌱 Individual App Developer
